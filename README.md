@@ -13,4 +13,6 @@ LinkedIn Profile: https://www.linkedin.com/in/jamie-bland-a92477230/
 
 - CSCI 182 - Data Structures: https://github.com/pumkinisawesome/Prin_CSCI_182/
 
+- CSCI 390 - Cybersecurity: https://github.com/pumkinisawesome/s-des-cracking/
+
 ## Special Projects
